@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed:
 To clone and set up the project, run:
 
 ```bash
-https://github.com/PaulDelamare/Nodejs-TypeScript-Postgres-Prisma-Express.git
+git clone https://github.com/PaulDelamare/Nodejs-TypeScript-Postgres-Prisma-Express.git
 cd Nodejs-TypeScript-Postgres-Prisma-Express
 npm install
 ```

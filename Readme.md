@@ -35,11 +35,7 @@ npm install
 
 ## Remove Git History
 
-If you want to start a fresh repository, remove the existing .git folder:
-
-```bash
-rm -rf .git
-```
+Following this you will have to delete the .git which was created during the clone, this will allow you to have your own project and create a new repository for your project
 
 ## Project Structure
 

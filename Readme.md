@@ -64,11 +64,6 @@ src/
      email String  @unique
    }
    ```
-3. Run the following command to apply your models to the database:
-   ```sh
-   npm run migrate:init
-   ```
-4. Now you can use Prisma in your services to interact with the database.
 
 ## Notes
 
@@ -78,19 +73,24 @@ As a junior developer, this setup may not be fully optimized compared to a more 
 
 ### Install Dependencies
 
-```sh
+```bash
 npm install
+```
+
+### Run the following command to apply your models to the database
+```bash
+  npm run migrate:init
 ```
 
 ### Start the Development Server
 
-```sh
+```bash
 npm run dev
 ```
 
 ### Run in Production
 
-```sh
+```bash
 npm start
 ```
 

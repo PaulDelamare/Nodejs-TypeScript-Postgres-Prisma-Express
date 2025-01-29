@@ -28,8 +28,8 @@ Before you begin, ensure you have the following installed:
 To clone and set up the project, run:
 
 ```bash
-git clone https://github.com/your-repo/node-api-starter.git
-cd node-api-starter
+https://github.com/PaulDelamare/Nodejs-TypeScript-Postgres-Prisma-Express.git
+cd Nodejs-TypeScript-Postgres-Prisma-Express
 npm install
 ```
 
